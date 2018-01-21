@@ -1,9 +1,10 @@
 package main
 
 import (
-	esa "esa_cli"
 	"fmt"
 	"os"
+
+	esa "github.com/ygnmhdtt/esa_cli"
 )
 
 func main() {
